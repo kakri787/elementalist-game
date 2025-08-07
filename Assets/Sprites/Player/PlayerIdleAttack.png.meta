@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 91809c8eeee98e045be18ba975ea6109
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3143427391636563869
+    second: PlayerIdleAttack_0
+  - first:
+      213: 5306580390071878377
+    second: PlayerIdleAttack_1
+  - first:
+      213: -2724641103849133077
+    second: PlayerIdleAttack_2
+  - first:
+      213: 8201464748837448007
+    second: PlayerIdleAttack_3
+  - first:
+      213: 7541156014083431977
+    second: PlayerIdleAttack_4
+  - first:
+      213: 2298083233315489118
+    second: PlayerIdleAttack_5
+  - first:
+      213: -7126668741841537377
+    second: PlayerIdleAttack_6
+  - first:
+      213: -142521397449128800
+    second: PlayerIdleAttack_7
+  - first:
+      213: -5154725060319107754
+    second: PlayerIdleAttack_8
+  - first:
+      213: 6400183987168668556
+    second: PlayerIdleAttack_9
+  - first:
+      213: -2658908752069777923
+    second: PlayerIdleAttack_10
+  - first:
+      213: 406545218078444812
+    second: PlayerIdleAttack_11
+  - first:
+      213: -1381635477767338913
+    second: PlayerIdleAttack_12
+  - first:
+      213: -6388272450712771607
+    second: PlayerIdleAttack_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerIdleAttack_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97eabfde82bf9b20800000000000000
+      internalID: 3143427391636563869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebe4a01a51203ad0800000000000000
+      internalID: -2724641103849133077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5e37a07197a860800000000000000
+      internalID: 7541156014083431977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b7aab98cf81d90800000000000000
+      internalID: -7126668741841537377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65520e85edcb678b0800000000000000
+      internalID: -5154725060319107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df524b6d398a91bd0800000000000000
+      internalID: -2658908752069777923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerIdleAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 15
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c99a6ad173dce0800000000000000
+      internalID: -1381635477767338913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0403f8cf8b493fa44a37b56797732d34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerIdleAttack_0: 3143427391636563869
+      PlayerIdleAttack_1: 5306580390071878377
+      PlayerIdleAttack_10: -2658908752069777923
+      PlayerIdleAttack_11: 406545218078444812
+      PlayerIdleAttack_12: -1381635477767338913
+      PlayerIdleAttack_13: -6388272450712771607
+      PlayerIdleAttack_2: -2724641103849133077
+      PlayerIdleAttack_3: 8201464748837448007
+      PlayerIdleAttack_4: 7541156014083431977
+      PlayerIdleAttack_5: 2298083233315489118
+      PlayerIdleAttack_6: -7126668741841537377
+      PlayerIdleAttack_7: -142521397449128800
+      PlayerIdleAttack_8: -5154725060319107754
+      PlayerIdleAttack_9: 6400183987168668556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

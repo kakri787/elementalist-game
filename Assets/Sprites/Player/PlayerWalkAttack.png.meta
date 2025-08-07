@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: e2cd70108649d4d4d852b22418c6b899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1705073228745119267
+    second: PlayerWalkAttack_0
+  - first:
+      213: 8045119406061859636
+    second: PlayerWalkAttack_1
+  - first:
+      213: -8886796709406697060
+    second: PlayerWalkAttack_2
+  - first:
+      213: 7337797805660882899
+    second: PlayerWalkAttack_3
+  - first:
+      213: -4536615254131033174
+    second: PlayerWalkAttack_4
+  - first:
+      213: 8191739571612699939
+    second: PlayerWalkAttack_5
+  - first:
+      213: -5432974630711207719
+    second: PlayerWalkAttack_6
+  - first:
+      213: -3112116350758805814
+    second: PlayerWalkAttack_7
+  - first:
+      213: 3874956373749817813
+    second: PlayerWalkAttack_8
+  - first:
+      213: 6407465368549215235
+    second: PlayerWalkAttack_9
+  - first:
+      213: -582804515157250073
+    second: PlayerWalkAttack_10
+  - first:
+      213: -4131440345040111661
+    second: PlayerWalkAttack_11
+  - first:
+      213: 7103654843191686578
+    second: PlayerWalkAttack_12
+  - first:
+      213: 91364428805080207
+    second: PlayerWalkAttack_13
+  - first:
+      213: 6831069607064042583
+    second: PlayerWalkAttack_14
+  - first:
+      213: -4025790845936243518
+    second: PlayerWalkAttack_15
+  - first:
+      213: 336033302046281735
+    second: PlayerWalkAttack_16
+  - first:
+      213: -4370815850903837003
+    second: PlayerWalkAttack_17
+  - first:
+      213: 2178376888362499133
+    second: PlayerWalkAttack_18
+  - first:
+      213: -2109426726181244396
+    second: PlayerWalkAttack_19
+  - first:
+      213: 7474748665077912827
+    second: PlayerWalkAttack_20
+  - first:
+      213: -5686941866055576637
+    second: PlayerWalkAttack_21
+  - first:
+      213: 4092448025747514236
+    second: PlayerWalkAttack_22
+  - first:
+      213: -8261901824217047957
+    second: PlayerWalkAttack_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerWalkAttack_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd96e9caeec5658e0800000000000000
+      internalID: -1705073228745119267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 9
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9914b02a71cba480800000000000000
+      internalID: -8886796709406697060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 10
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb6ee5674ba01c0800000000000000
+      internalID: -4536615254131033174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 9
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8dfb6cb523a94b0800000000000000
+      internalID: -5432974630711207719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 10
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d16e71aa4c96c530800000000000000
+      internalID: 3874956373749817813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 15
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efee8c916679e7f0800000000000000
+      internalID: -582804515157250073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 16
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b57c6f6170459260800000000000000
+      internalID: 7103654843191686578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 12
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf4057d95dcce50800000000000000
+      internalID: 6831069607064042583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 11
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009b210284d9a400800000000000000
+      internalID: 336033302046281735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 12
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c74c90d362b3e10800000000000000
+      internalID: 2178376888362499133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 16
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45b47de44abb760800000000000000
+      internalID: 7474748665077912827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkAttack_22
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 16
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ed64fbcb4bc830800000000000000
+      internalID: 4092448025747514236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06a5b5eb83e808b4b8d823faeb1923ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerWalkAttack_0: -1705073228745119267
+      PlayerWalkAttack_1: 8045119406061859636
+      PlayerWalkAttack_10: -582804515157250073
+      PlayerWalkAttack_11: -4131440345040111661
+      PlayerWalkAttack_12: 7103654843191686578
+      PlayerWalkAttack_13: 91364428805080207
+      PlayerWalkAttack_14: 6831069607064042583
+      PlayerWalkAttack_15: -4025790845936243518
+      PlayerWalkAttack_16: 336033302046281735
+      PlayerWalkAttack_17: -4370815850903837003
+      PlayerWalkAttack_18: 2178376888362499133
+      PlayerWalkAttack_19: -2109426726181244396
+      PlayerWalkAttack_2: -8886796709406697060
+      PlayerWalkAttack_20: 7474748665077912827
+      PlayerWalkAttack_21: -5686941866055576637
+      PlayerWalkAttack_22: 4092448025747514236
+      PlayerWalkAttack_23: -8261901824217047957
+      PlayerWalkAttack_3: 7337797805660882899
+      PlayerWalkAttack_4: -4536615254131033174
+      PlayerWalkAttack_5: 8191739571612699939
+      PlayerWalkAttack_6: -5432974630711207719
+      PlayerWalkAttack_7: -3112116350758805814
+      PlayerWalkAttack_8: 3874956373749817813
+      PlayerWalkAttack_9: 6407465368549215235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

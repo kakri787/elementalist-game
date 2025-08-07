@@ -1,0 +1,92 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "LevelOne_2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Ground.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlock.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlock0.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlock1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlock2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlockS1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GroundBlockS2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "LevelOne.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1756.0606060606062,
+                "y": 727.2727272727271
+            }
+        },
+        "LevelOne.tmx#GroundBlock0": {
+            "scaleInDock": 1
+        },
+        "LevelOne_2.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1531.8181818181818,
+                "y": 1278.7878787878788
+            }
+        },
+        "LevelTwo.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2668.181818181818,
+                "y": 1203.030303030303
+            }
+        }
+    },
+    "last.imagePath": "F:/UnityProjects/elementalist-game/Assets/Sprites/Background/Blocks",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "openFiles": [
+        "LevelOne.tmx",
+        "Ground.tsx",
+        "LevelOne_2.tmx"
+    ],
+    "project": "LevelOne.tiled-project",
+    "recentFiles": [
+        "LevelOne.tmx",
+        "Ground.tsx",
+        "LevelOne_2.tmx",
+        "LevelTwo.tmx",
+        "GroundBlock1.tsx",
+        "GroundBlockS2.tsx",
+        "GroundBlockS1.tsx",
+        "GroundBlock0.tsx",
+        "GroundBlock2.tsx",
+        "GroundBlock.tsx"
+    ]
+}
